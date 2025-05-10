@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 - 🖥️ I’m currently working on **@CompFest** and **@PPMB KMBUI**
 - 📖 I’m currently learning **Next.js**
-<br>
 - 📫 How to reach me:
     - **WhatsApp**: +62 877-8749-7831
     - **Instagram**: @aridrl_
