@@ -2,15 +2,13 @@
 
 <h2 align="left">About me</h2>
 
-<hr>
 <p align="left">My name is Darrell and I'm a college students at University of Indonesia</p>
-<p align="left">🖥️ Working on <b>@COmpFest</b> and <b>@PPMB KMBUI</b><br>📖 I’m currently learning <b>Next.js</b></p>
+<p align="left">🖥️ Working on <b>@CompFest</b> and <b>@PPMB KMBUI</b><br>📖 I’m currently learning <b>Next.js</b></p>
 
 <br>
 
 <h2 align="left">Tech Stack that I Used</h2>
 
-<hr>
 
 ###
 
@@ -40,7 +38,6 @@
 
 <h2 align="left">Stats</h2>
 
-<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NaviCo-de&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -51,7 +48,6 @@
 
 <h2 align="left">Connect With Me</h2>
 
-<hr>
 
 <div align="left">
   <a href="www.linkedin.com/in/ari-darrell-muljono" target="_blank">
